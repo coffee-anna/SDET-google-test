@@ -1,0 +1,33 @@
+# Project based files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle
+/build/
+
+# Avoid ignoring Gradle wrapper jar file
+!gradle-wrapper.jar
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Cache of project
+.gradletasknamecache
+
+# OSX files
+*.DS_Store
+
+# Java
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Allure
+/allure-report/
+/allure-results/
