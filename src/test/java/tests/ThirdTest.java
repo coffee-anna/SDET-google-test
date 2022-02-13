@@ -5,8 +5,6 @@ import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import java.io.UnsupportedEncodingException;
-
 import pages.CalculatorPage;
 import pages.SearchPage;
 

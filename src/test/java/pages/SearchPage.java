@@ -8,8 +8,6 @@ import org.openqa.selenium.WebElement;
 
 import tests.BaseTest;
 
-import java.io.UnsupportedEncodingException;
-
 public class SearchPage extends BaseTest {
     WebDriver driver;
     WebElement searchLine;
